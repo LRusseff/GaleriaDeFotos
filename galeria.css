@@ -1,0 +1,41 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #000000;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-image: url(cimentoqueimado.png)
+}
+h1, h2, p, section {
+    text-align: center;
+}
+.foto1, .foto2, .foto3, .foto4{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #000000;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    transition: 1s;
+}
+.foto5, .foto6, .foto7{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #000000;
+    margin-right: 20px;
+    transition: 1s;
+}
+
+.gallery {
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: fit-content;
+}
+
+.container {
+    flex-direction: column-reverse;
+  }
+  img:hover{
+    transform: scale(1.1);
+  }
