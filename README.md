@@ -1,0 +1,1 @@
+Essa atividade disposto pela professora Gabriela Senna teve o intuito dos alunos utilizarem seus conhecimentos em HTML e CSS para produzirem uma galeria de fotos com um tema de escolha própria do aluno.
